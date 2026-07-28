@@ -19,6 +19,15 @@ website:
         href: json.md
     # right:
     #   - about.qmd
+    right:
+        - icon: github
+          menu:
+            - text: "Source code"
+              href: https://github.com/SONAIRGRAPH/audiofunctions-plus
+              target: _blank
+            - text: "Report an issue"
+              href: https://github.com/SONAIRGRAPH/audiofunctions-plus/issues
+              target: _blank
 
   sidebar:
     contents:
