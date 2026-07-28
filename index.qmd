@@ -1,0 +1,15 @@
+---
+title: "Audiofunctions+"
+subtitle: "Sonnification of mathematical functions"
+lang: en
+---
+
+{{< include home.md >}}
+
+<!--
+::: {.column-margin}
+
+![](eu-funding.png)
+
+:::
+-->
